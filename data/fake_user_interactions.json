@@ -1,0 +1,33 @@
+[
+  {"_id": "60c72b2f9b2f8b001c8c4b01", "user_id": "user101", "ad_id": "60c72b2f9b2f8b001c8c4a01", "watch_duration_seconds": 30, "completed_watch": true, "clicked_ad": false, "skipped_ad": false, "reward_received": true, "timestamp": "2025-07-01T09:05:00Z"},
+  {"_id": "60c72b2f9b2f8b001c8c4b02", "user_id": "user101", "ad_id": "60c72b2f9b2f8b001c8c4a03", "watch_duration_seconds": 45, "completed_watch": true, "clicked_ad": true, "skipped_ad": false, "reward_received": true, "timestamp": "2025-07-01T09:15:00Z"},
+  {"_id": "60c72b2f9b2f8b001c8c4b03", "user_id": "user101", "ad_id": "60c72b2f9b2f8b001c8c4a08", "watch_duration_seconds": 40, "completed_watch": true, "clicked_ad": false, "skipped_ad": false, "reward_received": true, "timestamp": "2025-07-01T09:25:00Z"},
+  {"_id": "60c72b2f9b2f8b001c8c4b04", "user_id": "user101", "ad_id": "60c72b2f9b2f8b001c8c4a11", "watch_duration_seconds": null, "completed_watch": true, "clicked_ad": false, "skipped_ad": false, "reward_received": true, "timestamp": "2025-07-01T10:00:00Z"},
+  {"_id": "60c72b2f9b2f8b001c8c4b05", "user_id": "user101", "ad_id": "60c72b2f9b2f8b001c8c4a05", "watch_duration_seconds": 5, "completed_watch": false, "clicked_ad": false, "skipped_ad": true, "reward_received": false, "timestamp": "2025-07-01T10:30:00Z"},
+
+  {"_id": "60c72b2f9b2f8b001c8c4b06", "user_id": "user102", "ad_id": "60c72b2f9b2f8b001c8c4a02", "watch_duration_seconds": null, "completed_watch": true, "clicked_ad": true, "skipped_ad": false, "reward_received": true, "timestamp": "2025-07-01T11:00:00Z"},
+  {"_id": "60c72b2f9b2f8b001c8c4b07", "user_id": "user102", "ad_id": "60c72b2f9b2f8b001c8c4a09", "watch_duration_seconds": null, "completed_watch": true, "clicked_ad": false, "skipped_ad": false, "reward_received": true, "timestamp": "2025-07-01T11:10:00Z"},
+  {"_id": "60c72b2f9b2f8b001c8c4b08", "user_id": "user102", "ad_id": "60c72b2f9b2f8b001c8c4a04", "watch_duration_seconds": null, "completed_watch": true, "clicked_ad": true, "skipped_ad": false, "reward_received": true, "timestamp": "2025-07-01T11:20:00Z"},
+  {"_id": "60c72b2f9b2f8b001c8c4b09", "user_id": "user102", "ad_id": "60c72b2f9b2f8b001c8c4a07", "watch_duration_seconds": null, "completed_watch": false, "clicked_ad": false, "skipped_ad": false, "reward_received": true, "timestamp": "2025-07-01T11:40:00Z"},
+  {"_id": "60c72b2f9b2f8b001c8c4b0A", "user_id": "user102", "ad_id": "60c72b2f9b2f8b001c8c4a05", "watch_duration_seconds": 10, "completed_watch": false, "clicked_ad": false, "skipped_ad": true, "reward_received": false, "timestamp": "2025-07-01T12:00:00Z"},
+
+  {"_id": "60c72b2f9b2f8b001c8c4b0B", "user_id": "user103", "ad_id": "60c72b2f9b2f8b001c8c4a05", "watch_duration_seconds": 25, "completed_watch": true, "clicked_ad": true, "skipped_ad": false, "reward_received": true, "timestamp": "2025-07-01T13:00:00Z"},
+  {"_id": "60c72b2f9b2f8b001c8c4b0C", "user_id": "user103", "ad_id": "60c72b2f9b2f8b001c8c4a10", "watch_duration_seconds": 30, "completed_watch": true, "clicked_ad": true, "skipped_ad": false, "reward_received": true, "timestamp": "2025-07-01T13:10:00Z"},
+  {"_id": "60c72b2f9b2f8b001c8c4b0D", "user_id": "user103", "ad_id": "60c72b2f9b2f8b001c8c4a13", "watch_duration_seconds": 20, "completed_watch": true, "clicked_ad": false, "skipped_ad": false, "reward_received": true, "timestamp": "2025-07-01T13:20:00Z"},
+  {"_id": "60c72b2f9b2f8b001c8c4b0E", "user_id": "user103", "ad_id": "60c72b2f9b2f8b001c8c4a01", "watch_duration_seconds": 5, "completed_watch": false, "clicked_ad": false, "skipped_ad": true, "reward_received": false, "timestamp": "2025-07-01T13:40:00Z"},
+
+  {"_id": "60c72b2f9b2f8b001c8c4b0F", "user_id": "user104", "ad_id": "60c72b2f9b2f8b001c8c4a16", "watch_duration_seconds": 75, "completed_watch": true, "clicked_ad": true, "skipped_ad": false, "reward_received": true, "timestamp": "2025-07-02T08:00:00Z"},
+  {"_id": "60c72b2f9b2f8b001c8c4b10", "user_id": "user104", "ad_id": "60c72b2f9b2f8b001c8c4a17", "watch_duration_seconds": 35, "completed_watch": true, "clicked_ad": true, "skipped_ad": false, "reward_received": true, "timestamp": "2025-07-02T08:15:00Z"},
+  {"_id": "60c72b2f9b2f8b001c8c4b11", "user_id": "user104", "ad_id": "60c72b2f9b2f8b001c8c4a03", "watch_duration_seconds": 10, "completed_watch": false, "clicked_ad": false, "skipped_ad": true, "reward_received": false, "timestamp": "2025-07-02T08:30:00Z"},
+  {"_id": "60c72b2f9b2f8b001c8c4b12", "user_id": "user104", "ad_id": "60c72b2f9b2f8b001c8c4a06", "watch_duration_seconds": null, "completed_watch": true, "clicked_ad": false, "skipped_ad": false, "reward_received": true, "timestamp": "2025-07-02T09:00:00Z"},
+
+  {"_id": "60c72b2f9b2f8b001c8c4b13", "user_id": "user105", "ad_id": "60c72b2f9b2f8b001c8c4a04", "watch_duration_seconds": null, "completed_watch": true, "clicked_ad": false, "skipped_ad": false, "reward_received": true, "timestamp": "2025-07-02T10:00:00Z"},
+  {"_id": "60c72b2f9b2f8b001c8c4b14", "user_id": "user105", "ad_id": "60c72b2f9b2f8b001c8c4a07", "watch_duration_seconds": null, "completed_watch": true, "clicked_ad": true, "skipped_ad": false, "reward_received": true, "timestamp": "2025-07-02T10:10:00Z"},
+  {"_id": "60c72b2f9b2f8b001c8c4b15", "user_id": "user105", "ad_id": "60c72b2f9b2f8b001c8c4a15", "watch_duration_seconds": null, "completed_watch": true, "clicked_ad": false, "skipped_ad": false, "reward_received": true, "timestamp": "2025-07-02T10:20:00Z"},
+  {"_id": "60c72b2f9b2f8b001c8c4b16", "user_id": "user105", "ad_id": "60c72b2f9b2f8b001c8c4a19", "watch_duration_seconds": 55, "completed_watch": true, "clicked_ad": true, "skipped_ad": false, "reward_received": true, "timestamp": "2025-07-02T10:30:00Z"},
+
+  {"_id": "60c72b2f9b2f8b001c8c4b17", "user_id": "user106", "ad_id": "60c72b2f9b2f8b001c8c4a01", "watch_duration_seconds": 28, "completed_watch": true, "clicked_ad": false, "skipped_ad": false, "reward_received": true, "timestamp": "2025-07-03T11:00:00Z"},
+  {"_id": "60c72b2f9b2f8b001c8c4b18", "user_id": "user106", "ad_id": "60c72b2f9b2f8b001c8c4a04", "watch_duration_seconds": null, "completed_watch": true, "clicked_ad": false, "skipped_ad": false, "reward_received": true, "timestamp": "2025-07-03T11:10:00Z"},
+  {"_id": "60c72b2f9b2f8b001c8c4b19", "user_id": "user106", "ad_id": "60c72b2f9b2f8b001c8c4a14", "watch_duration_seconds": null, "completed_watch": true, "clicked_ad": true, "skipped_ad": false, "reward_received": true, "timestamp": "2025-07-03T11:20:00Z"},
+  {"_id": "60c72b2f9b2f8b001c8c4b1A", "user_id": "user106", "ad_id": "60c72b2f9b2f8b001c8c4a18", "watch_duration_seconds": null, "completed_watch": true, "clicked_ad": false, "skipped_ad": false, "reward_received": true, "timestamp": "2025-07-03T11:30:00Z"}
+]
